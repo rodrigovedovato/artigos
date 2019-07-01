@@ -1,5 +1,7 @@
-# Injeção de Dependência em Scala - Parte 2
+## Anteriormente
+
+Na [primeira parte](/injecao-de-dependencia-em-scala-par)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjE5OTI5NywtMjA4ODc0NjYxMiwtMz
+eyJoaXN0b3J5IjpbLTUwNzY3NzQ1MywtMjA4ODc0NjYxMiwtMz
 MyNDU1MzYzXX0=
 -->
