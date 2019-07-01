@@ -48,8 +48,8 @@ object DependencyInjectionWithGuice extends App {
     println(homeController.authenticateUser("Rodrigo", "123"))
 }
 ```
-Funciona corretamente, mas não 
+Funciona corretamente, mas 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjAzOTU2NjUsLTIwODg3NDY2MTIsLT
-MzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbODU0NDQwMTE3LC0yMDg4NzQ2NjEyLC0zMz
+I0NTUzNjNdfQ==
 -->
